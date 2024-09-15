@@ -6,7 +6,7 @@
 .pnp.js
 
 #properties
-# *.properties
+*.properties
 
 # testing
 /coverage
